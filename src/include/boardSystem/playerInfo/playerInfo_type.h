@@ -1,0 +1,7 @@
+#ifndef PLAYERINFO_TYPE_H
+#define PLAYERINFO_TYPE_H
+
+
+
+
+#endif // PLAYERINFO_TYPE_H

@@ -1,0 +1,7 @@
+#ifndef KICKCONTROL_CONFIG_H
+#define KICKCONTROL_CONFIG_H
+
+
+
+
+#endif // KICKCONTROL_CONFIG_H

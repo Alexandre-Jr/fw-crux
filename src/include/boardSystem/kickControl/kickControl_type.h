@@ -1,0 +1,7 @@
+#ifndef KICKCONTROL_TYPE_H
+#define KICKCONTROL_TYPE_H
+
+
+
+
+#endif // KICKCONTROL_TYPE_H

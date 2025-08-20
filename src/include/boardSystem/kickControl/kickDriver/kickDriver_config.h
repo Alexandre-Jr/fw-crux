@@ -1,0 +1,7 @@
+#ifndef KICKDRIVER_CONFIG_H
+#define KICKDRIVER_CONFIG_H
+
+
+
+
+#endif // KICKDRIVER_CONFIG_H

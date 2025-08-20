@@ -1,0 +1,7 @@
+#ifndef KICKDRIVER_TYPES_H
+#define KICKDRIVER_TYPES_H
+
+
+
+
+#endif // KICKDRIVER_TYPES_H

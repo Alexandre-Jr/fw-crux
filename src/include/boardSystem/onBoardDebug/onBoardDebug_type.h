@@ -1,0 +1,7 @@
+#ifndef ONBOARDDEBUG_TYPE_H
+#define ONBOARDDEBUG_TYPE_H
+
+
+
+
+#endif // ONBOARDDEBUG_TYPE_H

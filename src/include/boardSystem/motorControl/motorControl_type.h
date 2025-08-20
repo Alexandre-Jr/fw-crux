@@ -1,0 +1,7 @@
+#ifndef MOTORCONTROL_TYPE_H
+#define MOTORCONTROL_TYPE_H
+
+
+
+
+#endif // MOTORCONTROL_TYPE_H

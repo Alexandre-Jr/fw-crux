@@ -1,0 +1,7 @@
+#ifndef PLAYERINFO_PRIVATE_H
+#define PLAYERINFO_PRIVATE_H
+
+
+
+
+#endif // PLAYERINFO_PRIVATE_H

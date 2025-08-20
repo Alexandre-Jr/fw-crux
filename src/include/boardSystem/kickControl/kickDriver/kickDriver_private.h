@@ -1,0 +1,7 @@
+#ifndef KICKDRIVER_PRIVATE_H
+#define KICKDRIVER_PRIVATE_H
+
+
+
+
+#endif // KICKDRIVER_PRIVATE_H

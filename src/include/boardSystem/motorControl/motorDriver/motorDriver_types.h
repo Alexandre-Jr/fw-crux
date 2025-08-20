@@ -1,0 +1,7 @@
+#ifndef MOTORDRIVER_TYPES_H
+#define MOTORDRIVER_TYPES_H
+
+
+
+
+#endif // MOTORDRIVER_TYPES_H

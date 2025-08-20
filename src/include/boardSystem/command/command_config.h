@@ -1,0 +1,14 @@
+#ifndef COMMAND_CONFIG_H
+#define COMMAND_CONFIG_H
+
+
+
+
+/* Defines */
+
+#define COMMAND_NUMBER_OF_NO_RECEIVED_PACKETS_TO_OVERFLOW 1000
+
+
+
+
+#endif // COMMAND_CONFIG_H
