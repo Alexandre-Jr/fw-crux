@@ -6,19 +6,22 @@ fi
 
 # Defines
 SCRIPT_DIR=src
-3RDPARTY_DIR=3rdparty
+THIRDPARTY=3rdparty
 TARGET_PLATFORM_MCU=simActuator
 TARGET_PLATFORM_OS=posix
 BIN_NAME=fw-crux
 
+
+# Install submodules
+git submodule update --init --recursive
+
+echo "Submodules updated."
+
 # Enter in src
 cd "$SCRIPT_DIR" || exit
-cd "$3RDPARTY_DIR" || exit
+cd "$THIRDPARTY" || exit
+cd  pico-sdk || exit
 
-# Install dependencies
-git clone git@github.com:raspberrypi/pico-sdk.git
-git clone https://github.com/FreeRTOS/FreeRTOS-Kernel.git
+git submodule update --init --recursive
 
-
-# Run the build
-./"$BIN_DIR"/"$BIN_NAME"
+echo "Pico SDK submodules updated."

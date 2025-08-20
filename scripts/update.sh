@@ -6,3 +6,10 @@ fi
 
 # Update
 git pull origin main
+
+echo "Project updated from the main branch."
+
+# Update submodules
+sh ./script/install_dependencies.sh
+
+"echo "Submodules updated."
